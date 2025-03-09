@@ -5,3 +5,7 @@ If you dont have python3 installed you can do the following command of "sudo apt
 Once python is installed and you have Dining-Philosopher.py downloaded and ready write the following command:
 
 ``` python3 Dining-Philosopher.py ```
+
+Since this program is meant to run infinitely one way to force stop it is by doing the following command 
+
+``` CTRL + Z ```
